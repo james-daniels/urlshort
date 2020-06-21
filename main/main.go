@@ -13,13 +13,6 @@ import (
 var yamlFile string
 var jsonFile string
 
-// var yaml = `
-// - path: /urlshort
-//   url: https://github.com/gophercises/urlshort
-// - path: /urlshort-final
-//   url: https://github.com/gophercises/urlshort/tree/solution
-// `
-
 // Build the MapHandler using the mux as the fallback
 var pathsToUrls = map[string]string{}
 
@@ -50,7 +43,6 @@ func main() {
 	}
 
 }
-
 
 
 func defaultMux() *http.ServeMux {
