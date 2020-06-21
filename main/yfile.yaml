@@ -1,0 +1,4 @@
+- path: /getapi
+  url: https://github.com/james-daniels/getapi
+- path: /sha2hash
+  url: https://github.com/james-daniels/sha2hash
