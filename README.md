@@ -1,3 +1,3 @@
 # urlshort
 
-My solution from [gophersizes](https://courses.calhoun.io/lessons/les_goph_04)
+My solution from the URL Shortener in [gophersizes](https://courses.calhoun.io/lessons/les_goph_04)
